@@ -1,5 +1,3 @@
-# 전자전기계열 2A 21610030 김태영
-
 import random
 
 print()
